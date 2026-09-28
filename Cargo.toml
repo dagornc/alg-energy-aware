@@ -1,0 +1,9 @@
+[package]
+name = "energy_aware_rs"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Implementation Rust de reference de ALG_ENERGY_AWARE, parite bit-a-bit avec la reference Python"
+repository = "https://github.com/dagornc/alg-energy-aware"
+
+[dependencies]
